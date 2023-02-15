@@ -1,4 +1,4 @@
-# Kule i Urny Statystyka
+# Kule i Urny    Statystyka
 
 Repozytorium zawiera projekt realizowany na kursie "Metody probabilistyczne i Statystka" wraz z moimi rozwiązaniami.
 
