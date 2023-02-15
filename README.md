@@ -2,7 +2,7 @@
 
 Repozytorium zawiera projekt realizowany na kursie "Metody probabilistyczne i Statystka" wraz z moimi rozwiązaniami.
 
-zadanie.pdf znajduje się treść zadania. 
+zadanie.pdf to treść zadania. 
 
 rozwiazanie.pdf to plik z wykresami i omowieniem odpowiedzi
 
